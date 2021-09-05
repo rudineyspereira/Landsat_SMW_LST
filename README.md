@@ -1,7 +1,7 @@
 Google Earth Engine code to compute Land Surface Temperature from the Landsat series of satellites.
 Codigo Google Earth Engine para calcular Tempeeratura de Superfície (LST) a partir de imagens da série de satélites LANDSAT.
 
-Author: Sofia Ermida (sofia.ermida@ipma.pt; @ermida_sofia)
+Author: Sofia Ermida (sofia.ermida@ipma.pt; @ermida_sofia)<\br>
 Autora: Sofia Ermida
 
 This code is free and open. 
